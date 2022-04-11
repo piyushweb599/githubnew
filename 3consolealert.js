@@ -9,7 +9,7 @@ alert("Form Submitted")
 confirm('Do You want to leave')
 true
 confirm('Do You want to leave')
-false
+falsetrue
 var out = confirm('Do You want to leave')
 out
 true
